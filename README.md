@@ -51,6 +51,7 @@ npm i leetcode-spider -g
     - `ruby`
     - `swift`
     - `go`
+    - `mysql` (对应数据库的题目)
 
 - `outputDir` **选填**，表示你希望存放源码文件的目录，默认`"./solutions"`
 - `template` **选填**，表示你自己定义的 README.tpl 路径，默认 "./README.tpl"
