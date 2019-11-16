@@ -4,4 +4,7 @@ private.*
 log/*
 .DS_Store
 result.json
+config.json
+solution/
+README.tpl
 npm-debug.log
